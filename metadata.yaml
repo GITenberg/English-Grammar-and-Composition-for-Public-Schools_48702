@@ -1,10 +1,16 @@
 _repo: English-Grammar-and-Composition-for-Public-Schools_48702
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48702-h/images/cover.jpg
 creator:
   author:
     agent_name: Armstrong, George
     gutenberg_agent_id: '44931'
     url: http://www.gutenberg.org/2009/agents/44931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48702#English-Grammar-and-Composition-for-Public-Schools
 gutenberg_issued: '2015-04-14'
 gutenberg_type: Text
 identifiers:
